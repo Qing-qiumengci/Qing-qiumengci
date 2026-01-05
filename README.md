@@ -3,7 +3,7 @@
 # 🌸 卿_秋梦辞 (Qing-qiumengci)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Zhi+Mang+Xing&size=45&pause=1000&color=EE99A0&center=true&vCenter=true&width=500&lines=%E5%8D%BF%E6%9C%AC%E9%9D%92%E4%B8%98%E4%B8%80%E6%A2%A6%E5%AE%A2%E3%80%82;Coding+in+Flow.;%E7%A7%8B%E6%A2%A6%E8%BE%9E%E5%BE%80%EF%BC%8C%E4%B8%87%E8%B1%A1%E6%9B%B4%E6%96%B0%E3%80%82)
-
+![qingqiumengci](https://wx4.sinaimg.cn/large/008v8I66gy1hs78oxkklqj33pc2gw4qq.jpg)
 ---
 
 ### 🏮 卷首语  
