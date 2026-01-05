@@ -2,7 +2,7 @@
 
 # 🌸 卿_秋梦辞 (Qing-qiumengci)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Zhi+Mang+Xing&size=45&pause=1000&color=EE99A0&center=true&vCenter=true&width=500&lines=%E5%8D%BF%E6%9C%AC%E9%9D%92%E4%B8%98%E4%B8%80%E6%A2%A6%E5%AE%A2%E3%80%82;Coding+in+Flow.;%E7%A7%8B%E6%A2%A6%E8%BE%9E%E5%BE%80%EF%BC%8C%E4%B8%87%E8%B1%A1%E6%9B%B4%E6%96%B0%E3%80%82)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&size=45&pause=1000&color=EE99A0&center=true&vCenter=true&width=500&lines=卿本清秋一梦客;秋梦辞往，万象更新)
 ![qingqiumengci](https://wx4.sinaimg.cn/large/008v8I66gy1hs78oxkklqj33pc2gw4qq.jpg)
 ---
 
@@ -40,5 +40,5 @@
   <img src="https://komarev.com/ghpvc/?username=Qing-qiumengci&color=8839ef&style=flat-square&label=UV" alt="访客统计" />
 </div>
 <p align="center">
-  <sub><em style="color:#aaa; font-size:0.9em;">✨ 每一次停留，都是星辰的回响</em></sub>
+  <sub><em style="color:#aaa; font-size:0.9em;">✨ 每一次停留，都是梦的回响</em></sub>
 </p>
