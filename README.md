@@ -37,7 +37,7 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Qing-qiumengci&color=8839ef&style=flat-square&label=ALL" alt="访客统计" />
+  <img src="https://komarev.com/ghpvc/?username=Qing-qiumengci&color=8839ef&style=flat-square&label=UV" alt="访客统计" />
 </div>
 <p align="center">
   <sub><em style="color:#aaa; font-size:0.9em;">✨ 每一次停留，都是星辰的回响</em></sub>
