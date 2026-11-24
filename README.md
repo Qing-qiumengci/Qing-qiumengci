@@ -1,9 +1,10 @@
 <div id="title" align="center">
 
-# 🌸 卿_秋梦辞 (Qing-qiumengci)
+# 🍂 卿_秋梦辞 (Qing-qiumengci)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ma+Shan+Zheng&size=45&pause=1000&color=EE99A0&center=true&vCenter=true&width=500&lines=卿本清秋一梦客;秋梦辞往，万象更新)
 ![qingqiumengci](https://wx4.sinaimg.cn/large/008v8I66gy1hs78oxkklqj33pc2gw4qq.jpg)
+
 ---
 
 ### 🏮 卷首语  
