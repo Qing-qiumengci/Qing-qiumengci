@@ -19,18 +19,19 @@
 
 ---
 
-### 📜 藏经阁 (Treasured Repositories)
+### 🐍 蛇行 · 星轨
 
-* **🎋 [星集 · Qingqiumengci-stars](https://github.com/Qing-qiumengci/Qingqiumengci-stars)**  
-  > *“摘星揽胜，集四海之精粹，存于此卷。”*
+> *“星子循迹，吞食昼夜，终成归途。”*
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qing-qiumengci/Qing-qiumengci/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Qing-qiumengci/Qing-qiumengci/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Qing-qiumengci/Qing-qiumengci/output/github-snake.svg" />
+  </picture>
+</p>
 
 ---
-
-### 🏹 功名录 (Personal Achievements)
-
-- **修为载数**：`Since 2024`  
-- **问道足迹**：专注于 `星集` 之路  
-- **修行状态**：目前闭关研习中...
 
 <p align="center">
   <strong style="font-size:1.2em; color:#8839ef;">“入梦者，已逾此数矣。”</strong>
