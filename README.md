@@ -12,9 +12,12 @@
 
 <br>
 
-[![](https://img.shields.io/badge/境-枕梦清秋-8839ef?style=for-the-badge)]()
-[![](https://img.shields.io/badge/格-格物致知-264653?style=for-the-badge)]()
-[![](https://img.shields.io/badge/执-万卷代码-E76F51?style=for-the-badge)]()
+[![](https://img.shields.io/badge/语言-C%20%7C%20Python-264653?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Qing-qiumengci?tab=repositories)
+[![](https://img.shields.io/badge/状态-浑水摸鱼-E76F51?style=for-the-badge&logo=github&logoColor=white)]()
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,git,github,vscode,linux,md" alt="tech stack" />
+</p>
 
 </div>
 
@@ -30,6 +33,14 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Qing-qiumengci/Qing-qiumengci/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/Qing-qiumengci/Qing-qiumengci/output/github-snake.svg" />
   </picture>
+</p>
+
+---
+
+### 📊 修行 · 见证
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Qing-qiumengci&bg_color=00000000&color=8839ef&line=EE99A0&point=8839ef&area=true&area_color=8839ef&hide_border=true" />
 </p>
 
 ---
