@@ -37,21 +37,13 @@
 
 ---
 
-### 📊 修行 · 见证
-
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Qing-qiumengci&bg_color=00000000&color=8839ef&line=EE99A0&point=8839ef&area=true&area_color=8839ef&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <strong style="font-size:1.2em; color:#8839ef;">“入梦者，已逾此数矣。”</strong>
+  <strong style="font-size:1.2em; color:#8839ef;">“入梦者，已逾此数矣~”</strong>
 </p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Qing-qiumengci&color=8839ef&style=flat-square&label=UV" alt="访客统计" />
 </div>
 <p align="center">
-  <sub><em style="color:#aaa; font-size:0.9em;">✨ 每一次停留，都是梦的回响</em></sub>
+  <sub><em style="color:#aaa; font-size:0.9em;">总觉月落比日出更好看</em></sub>
 </p>
